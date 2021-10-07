@@ -1,2 +1,2 @@
-# ProjectsPython
-Nothing just some of my small python test projects
+# ProjectsPyton
+Just some of my small python test projects.
